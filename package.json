@@ -1,0 +1,21 @@
+{
+    "title": "Portfolio",
+    "name": "Even Chang",
+    "version": "1.0.0",
+    "dependencies": {
+        "bootstrap": "^4.0.0-alpha.6",
+        "font-awesome": "4.7.0",
+        "jquery": "^3.2.1",
+        "jquery.easing": "^1.4.1",
+        "tether": "^1.4.0"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.8",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "^3.0.4",
+        "gulp-header": "1.8.8",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0",
+        "gulp-uglify": "^2.1.2"
+    }
+}
